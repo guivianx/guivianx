@@ -2,7 +2,8 @@
 
  <div>
    <a href="https://github.com/guivianx">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guivianx&layout=compact&langs_count=6&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guivianx&layout=compact&langs_count=6&theme=tokyonigth"/>
+   </a>
 </div>
 <div style="display: inline_block"><br>
  
