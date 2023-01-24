@@ -1,4 +1,4 @@
-## 
+## wassup!
 
  <div>
    <a href="https://github.com/guivianx">
@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
  
- ### languages ​​under study
+ ### linguagens que estou estudando!
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +16,7 @@
  
  <br>
  
-  ### 
+  ### redes
  
 <div> 
   <a href="https://instagram.com/guivianx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
