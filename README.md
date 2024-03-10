@@ -1,5 +1,5 @@
 wassup Guivianx aqui ✌🏻
-- Sou um estudante de desenvolvimento web full stack
+- Sou um estudante de desenvolvimento web 
 - Em um futuro próximo irei me especializar totalmente em back-end
 - E-mail para contato: guivianx@gmail.com
 - 🚴🏻‍♀️💻👨🏻‍💻
