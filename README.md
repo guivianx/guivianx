@@ -4,7 +4,7 @@ Estudando e apredendo desenvolvimento web focado em front-end, alguns projetos p
 
 ### Tecnologias que uso atualmente:
 
-html, css, javascript 
+html, css, javascript / git
 
 ### Aprendizagem atual: 
 Jest - básico
