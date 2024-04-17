@@ -1,4 +1,4 @@
-estudando e apredendo desenvolvimento web.
+estudando e apredendo desenvolvimento web focado em front-end.
 
 Tecnologias que uso atualmente:
 html, css, javascript 
