@@ -4,7 +4,7 @@ Estudante de desenvolvimento web front-end, alguns projetos prontos deselvolvido
 
 ### Tecnologias que uso atualmente:
 
-html, css, javascript, git
+HTML, CSS, JavaScript, Git
 
 ### Aprendizagem atual: 
 Jest - básico
