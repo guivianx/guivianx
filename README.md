@@ -7,4 +7,4 @@ Estudante de desenvolvimento web front-end, alguns projetos prontos deselvolvido
 HTML, CSS, JavaScript, Git
 
 ### Aprendizagem atual: 
-Jest - básico
+Testes automatizados com Jest - básico
