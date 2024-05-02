@@ -7,4 +7,4 @@ Atualmente estou estudando desenvolvimento web front-end, alguns projetos pronto
 HTML, CSS, JavaScript, Jest/TDD, Git
 
 ### Aprendizagem atual: 
-Testes automatizados de software com Jest - básico
+React
