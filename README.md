@@ -4,7 +4,7 @@ Atualmente estou estudando desenvolvimento web front-end, alguns projetos pronto
 
 ### Tecnologias que uso atualmente:
 
-HTML, CSS, JavaScript, Jest/TDD, npm, Git
+HTML, CSS, JavaScript, Jest/TDD, npm, Git, React
 
 ### Aprendizagem atual: 
-React
+Redux
